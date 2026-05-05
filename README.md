@@ -45,4 +45,4 @@ To objectively measure performance, **Linear Regression** was used as the baseli
 ## Author
 **Sebastian Garncarek** 
 * M.Sc. Student in Computational Mathematics
-* [Connect with me on LinkedIn](linkedin.com/in/sebastian-garncarek-a0376a405)
+* [Connect with me on LinkedIn](https://www.linkedin.com/in/sebastian-garncarek-a0376a405)
